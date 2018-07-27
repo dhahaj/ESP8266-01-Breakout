@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/__Previews/
+/Project Logs for ESP8266-01-Breakout/
+/History/
